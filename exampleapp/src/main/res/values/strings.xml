@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ICE Alpha v1</string>
+
+    <string name="intro_text">This app is under development for the ICE Temp monitoring system</string>
+    <string name="setup_text">Tapping this button will setup your photon:</string>
+    <string name="welcome_back">Welcome back! You\'ve returned from setup, which started at %s.</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Enable full logging in the cloud SDK -->
+    <string name="http_log_level">FULL</string>
+</resources>
