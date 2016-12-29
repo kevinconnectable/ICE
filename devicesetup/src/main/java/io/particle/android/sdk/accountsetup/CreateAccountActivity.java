@@ -186,8 +186,6 @@ public class CreateAccountActivity extends BaseActivity {
                     }
                 }
 
-//this is a test
-
                 @Override
                 public void onFailure(ParticleCloudException error) {
                     // FIXME: look at old Spark app for what we do here UI & workflow-wise
